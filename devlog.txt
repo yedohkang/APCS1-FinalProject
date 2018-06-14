@@ -1,0 +1,135 @@
+CTY
+Chester Huang
+Yedoh Kang
+Tiffany Moi
+pd 5
+---------------------
+Animal Circus!
+
+/////////// Zone of Reflection \\\\\\\\\\\
+------------------------------------------
+OBSTACLES OVERCOME
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+How to implement different type of animals -- abstract Animal class, some hardcoded sub-classes
+Dealing with user inputs -- used Keyboard class
+How animals would be added to the board -- used a binary system where 0 is a free space and 1 is occupied
+
+
+UNRESOLVED ISSUES
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Need to improve display of the gameboard/animals
+No way to remove animals after adding to the game board
+Need to change some specific hard-coded values
+
+
+COOL STUFF LEARNED
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ability to use 2D-arrays as elements of an ArrayList
+Effective way to prompt for inputs
+Dealing with (un)intentional bad inputs
+
+
+MID-DEVELOPMENT DESIGN CHANGES
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+We added a game board to enhance the gaming experience.
+We removed the distinction between adults and children during the circus.
+We removed the user ability to change the price in order to streamline the game.
+We removed the special moves of animals (and doing the game board instead)
+We changed the game from being time sensitive to move sensitive because it fit the type of game better and was easier to code.
+
+
+LESSONS LEARNED
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ALWAYS PULL BEFORE COMMITTING/PUSHING!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Decide on consistent coding format (indentation, brackets, comments)
+Future projects: Coordinate better with group to decide who will edit what.
+
+
+
+ ______   ______   __   __   __       ______   _______	 
+/_____/\ /_____/\ /_/\ /_/\ /_/\     /_____/\ /______/\    
+\:::_ \ \\::::_\/_\:\ \\ \ \\:\ \    \:::_ \ \\::::__\/__  
+ \:\ \ \ \\:\/___/\\:\ \\ \ \\:\ \    \:\ \ \ \\:\ /____/\
+  \:\ \ \ \\::___\/_\:\_/.:\ \\:\ \____\:\ \ \ \\:\\_  _\/
+   \:\/.:| |\:\____/\\ ..::/ / \:\/___/\\:\_\ \ \\:\_\ \ \
+    \____/_/ \_____\/ \___/_(   \_____\/ \_____\/ \_____\/
+==============================================================
+
+
+2017-01-05
+--------------------------------------------------------------
+Chester, Tiffany, Yedoh :: Worked on the proposal + details (steps)
+
+
+2017-01-09
+--------------------------------------------------------------
+Chester, Tiffany, Yedoh :: Edited the proposal + worked on the UML Diagrams
+
+
+2017-01-10
+--------------------------------------------------------------
+Chester :: Worked on the flowchart + edited the todo list + completed implementing the UML Diagram
+Tiffany, Yedoh :: Worked on the todo list + edited the flowchart
+
+
+2017-01-11
+--------------------------------------------------------------
+Chester :: Completed the .gitignore task, worked on class Woo
+Tiffany :: Worked on the Animal superclass + its subclasses
+Yedoh :: Worked on the devlog, edited the todo list
+
+
+2017-01-12
+--------------------------------------------------------------
+Chester :: Added to Woo. Added some filler code to make it runnable. Buying an animal works, training is WIP.
+Tiffany :: Worked on Animal subclasses. Added code to Player to print out Animal train statuses. 
+Yedoh :: Worked on Animal subclasses. Added code to Woo (format + possible paths). Updated todo list. Updated UML Diagrams.
+
+
+2017-01-15
+--------------------------------------------------------------
+Chester :: Added to Woo logic flow, buying/training animals mostly done. Worked in GameBoard class.
+Tiffany :: Worked on Player + Circus classes. Updated Animal class.
+Yedoh :: Worked on Player (methods) + Circus (methods) + Woo (name input) classes. Updated Animal class. Edited the todo list. 
+
+
+2017-01-17
+--------------------------------------------------------------
+Chester :: Worked on Woo, Gameboard class, can now add animals to game board
+Tiffany :: Worked on Woo (implemented the new Circus and Player methods), Player, + Circus class.
+Yedoh :: Worked on Player (added getName method), Woo (user input error handling) classes. Updated/worked on README. 
+
+
+2017-01-18
+--------------------------------------------------------------
+Chester :: Worked on Woo, Gameboard class, README
+Tiffany :: Worked on Woo (clarified coordinate input and fixed Gameboard methods), Gameboard (corrected and added accessor methods)
+Yedoh :: Worked on Woo (fixed format + allowed user to view the current gameboard after input), updated README 
+
+
+2017-01-19
+--------------------------------------------------------------
+Chester :: Woo circus, skip animals, ending the game
+Tiffany :: Fixed Gameboard format to make the coordinate system easier to use.
+Yedoh :: Fixed format (nicer to look at from the terminal), and fixed a few more things in Woo. Fixed fame points update problem.
+
+
+2017-01-20
+--------------------------------------------------------------
+Chester :: made gameplay look nicer
+Tiffany :: Fixed formatting on Woo
+Yedoh :: updated UML diagram, added inline comments
+
+
+2017-01-21
+--------------------------------------------------------------
+Yedoh :: finished updating the UML diagram, added inline comments
+
+
+2017-01-22
+--------------------------------------------------------------
+Chester :: edited numbers, fixed flowchart, added inline comments
+Tiffany :: Added inline comments to Circus and GameBoard and debugged
+Yedoh :: finished adding inline comments and debugged
+
+==============================================================

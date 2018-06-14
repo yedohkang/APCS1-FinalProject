@@ -1,0 +1,41 @@
+CTY										
+Chester Huang, Yedoh Kang, Tiffany Moi			
+APCS1 — pd5		
+
+To Do List
+
+(DONE) 1. Flowchart 1/10
+(DONE) 2. Finalize Woo class game logic (skeleton, from flow chart) 1/10
+(DONE) 3. Implement UML Diagram 1/10
+4. Follow flowchart, start from Preparation part of the game, then Circus
+	(DONE) 1. Animal superclass 1/11
+		a. fill in extra code 
+	(DONE) 2. Animal subclasses 1/12
+		a. Decide on animal types, breed types
+		b. choose values for everything
+		c. decide on the details
+		d. finish other code
+		e. test in Woo
+	(DONE) 3. Player class 1/13
+		a. write all methods
+		b. test in Woo
+	(DONE) 4. Circus class 1/14 - 15
+		a. write all methods, test in Woo 
+		b. (Implement an algorithm to calculate number of attendees based on price of tickets, number of animals, and their appeal values)
+	(DONE) 5. GameBoard class 1/16 - 18
+		a. work on the 2D array
+		b. work on methods to add and remove animals
+		c. test in Woo
+                d. make circus display prettier
+	(DONE) 6. Woo driver 1/19
+		a. organize and write code based off flowchart
+		* still need to finalize *
+        7. Adjust numbers 1/20
+                a. decide on permanent values: countMoves, price, algorithm for results
+        8. MAKE IT LOOK NICE 1/20
+                (DONE) a. less text on screen at once as to not overwhelm user
+                (DONE) b. GameBoard and Animals-- figure out a better way to display
+	9. check 1/20 - end (1/22) 
+		a. review code and run tests
+		b. debugging
+
